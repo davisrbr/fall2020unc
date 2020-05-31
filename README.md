@@ -23,6 +23,4 @@ Text between this chart. It will comment on the geographic display above. Then, 
  </body>
 
 
-{% raw  %}
 {% include sharing.html %}
-{% endraw %}
