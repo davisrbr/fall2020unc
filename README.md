@@ -41,6 +41,6 @@ Text between this chart. It will comment on the geographic display above. Then, 
 
 
 
-<iframe src="https://public.tableau.com/views/CoursesTableau_v1/Website?:display_count=y&:origin=viz_share_link
+<iframe src="https://public.tableau.com/views/CoursesTableau_v1
 ?:embed=yes&:tabs=yes&:toolbar=yes" width="800" height="600"></iframe>
 
