@@ -23,4 +23,3 @@ Text between this chart. It will comment on the geographic display above. Then, 
  </body>
 
 
-{% include sharing.html %}
