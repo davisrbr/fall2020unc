@@ -1,5 +1,13 @@
+Adapting classrooms and course schedules to properly offer social distancing is crucial to bringing students back to the university campus. On May 21, UNC Chapel Hill Chancellor Kevin Guskiewicz announced the University’s roadmap plan for the fall 2020 semester. Responding to the COVID-19 pandemic, this plan detailed sweeping changes made to UNC classrooms to promote safe environments for all students. Our aim with this analysis was to offer insight into how changing classrooms and class-times may impact the number of student-to-student interactions on campus. 
 
-For now, this will be one giant Markdown file, this will change as we add pages, etc. I am going to try to embed some JS though.
+Maintaining social distance of 6 feet between individuals is essential to reducing the spread of the COVID-19 virus. We have used some of the changes suggested by the Chancellor Guskiewicz and other university systems his guidance to anticipate possible scenarios. We examine four different scenarios:
+
+1. Reorganize the overall class schedule to offer more weeknight classes 
+2. (?) Reorganize the overall class schedule to offer Saturday classes
+3. Limit to limiting classes to only those with 50 students or less. 
+4. Limit classes to only those with 100 students or less 
+
+Our model provides insight on how each change would impact the total number of students on campus. We use course enrollment data from fall 2019 provided by the [Office of the University Registrar](https://registrar.unc.edu/files/2019/03/2199-SSB-3-4-19.pdf). We consider the student density within the Chapel Hill campus. Below is a geospatial plot of students on campus throughout the week (press the triangle pointing right to play the animation throughout the school week). We offer the option of ‘layering’ restart scenarios: for example, you can view the student density on campus where classes are limited to 50 students or less, or where there are more weeknight courses offered, or where both classes are limited to 50 students AND more weeknight courses are offered. 
 
 <body>
  <style>
