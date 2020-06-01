@@ -7,7 +7,7 @@ Maintaining social distance between individuals is essential to reducing the spr
 
 1. Limit classes to only those with 50 students or less. There were 370 courses offered with over 50 students in Fall 2019. To limit student-to-student interactions and mitigate the exponential spread of COVID-19, we consider a scenario where these classes are held online.
 2. Limit classes to only those with 100 students or less. We consider a scenario where the 178 courses offered with over 100 students are held online. 
-3. Reorganize the overall class schedule to offer more weeknight classes. We sample 1/4th of the courses offered during the campus population peak hours between 11am - 3pm and move them to either a later time (between 5pm and 8pm) or to an earlier time (8 am) to reduce the density of students on campus. 
+3. Reorganize the overall class schedule to offer more weeknight classes. We sample 1/4 of the courses offered during the campus population peak hours between 11am - 3pm and move them to either a later time (between 5pm and 8pm) or to an earlier time (8 am) to reduce the density of students on campus. 
 
 Our model provides insight on how each proposed change would impact the total number of students on campus. We consider the student density within the Chapel Hill campus. Below is a geospatial plot of students on campus throughout the week (press the triangle pointing right to play the animation throughout a week of courses). We offer the option of ‘layering’ restart scenarios: for example, you can view the student density on campus where classes are limited to 50 students or less, or where there are more weeknight courses offered, or where both classes are limited to 50 students AND more weeknight courses are offered. 
 
@@ -65,7 +65,7 @@ The next plot presents the same information as above in totality.
  </body>
 
 ## Takeaways 
-We use changes to the UNC-CH course schedule to decrease the possibility of student-to-student COVID-19 spread in the classroom. We consider three strategies to mitigate in-class interactions: by limiting class sizes to >50 and >100 students, and extending course hours till 8 pm, as well as layered combinations of these strategies. We find a decrease of campus student population density with all strategies. The most significant decrease of student density on campus occurs with the layer extending class hours with the strategy of moving classes with over 50 students online. 
+We use changes to the UNC-CH course schedule to decrease the possibility of student-to-student COVID-19 spread in the classroom. We consider three strategies to mitigate in-class interactions: by limiting class sizes to <50 or <100 students, and extending course hours till 8 pm, as well as layered combinations of these strategies. We find a decrease of campus student population density with all strategies. The most significant decrease of student density on campus occurs with the layer extending class hours with the strategy of moving classes with over 50 students online. 
 
 Further work will consider network analysis of student-to-student spread in UNC-CH classrooms, and how these strategies may mitigate this spread. 
 
