@@ -1,3 +1,6 @@
+## Modeling students on the UNC-CH campus for fall 2020 restart scenarios
+### By Andrew Maxwell and Davis Brown
+
 Adapting classrooms and course schedules to properly offer social distancing is crucial to bringing university students back to the campus. On May 21, UNC - Chapel Hill Chancellor Kevin Guskiewicz announced the University’s roadmap plan for the fall 2020 semester. Responding to the COVID-19 pandemic, this plan detailed sweeping changes made to UNC classrooms to promote safe environments for all students. Our aim with this analysis was to offer insight into how changing course schedules may impact the number of student-to-student interactions on campus. 
 
 Maintaining social distance between individuals is essential to reducing the spread of the COVID-19 virus. [^1] [^2] We have used some of the changes suggested by the Chancellor Guskiewicz and other university systems to anticipate possible scenarios. We examine three different scenarios: 
