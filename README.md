@@ -42,7 +42,10 @@ Our model provides insight on how each proposed change would impact the total nu
  </body>
 
 
+
 We note the consistent decrease of student population densities under the scenarios. Namely, within peak times of 11am - 3pm, we notice a decrease of student population on campus by over 5,000 students. This may mitigate the exponential spread of COVID-19. The potential for student-to-student spread is lessened as class times are either spread out or the classes with the greatest potential to enable spread are moved online. We graph the total student population on the UNC-CH campus under different strategies or combinations of strategies below. The first plot allows direct comparison of the total student population on campus with a chosen strategy.
+
+
 
 <body>
  <style>
@@ -53,7 +56,10 @@ We note the consistent decrease of student population densities under the scenar
  </body>
 
 
+
 The next plot presents the same information as above in totality. 
+ 
+ 
  
 <body>
  <style>
