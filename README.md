@@ -11,7 +11,8 @@ Maintaining social distance between individuals is essential to reducing the spr
 2. Limit classes to only those with 100 students or less. We consider a scenario where the 178 courses offered with over 100 students are held online. 
 3. Reorganize the overall class schedule to offer more weeknight classes. We sample 1/4 of the courses offered during the campus population peak hours between 11am - 3pm and move them to either a later time (between 5pm and 8pm) or to an earlier time (8 am) to reduce the density of students on campus. 
 
-Our model provides insight on how each proposed change would impact the total number of students on campus. We consider the student density within the Chapel Hill campus. Below is a geospatial plot of students on campus throughout the week (press the triangle pointing right to play the animation throughout a week of courses). We offer the option of ‘layering’ restart scenarios: for example, you can view the student density on campus where classes are limited to 50 students or less, or where there are more weeknight courses offered, or where both classes are limited to 50 students AND more weeknight courses are offered. 
+Our model provides insight on how each proposed change would impact the total number of students on campus. We consider the student density within the Chapel Hill campus. Below is a geospatial plot of students on campus throughout the week (press the triangle pointing right to play the animation through a week of courses). We offer the option of ‘layering’ restart scenarios: for example, you can view the student density on campus where classes are limited to 50 students or less, or where there are more weeknight courses offered, or where both classes are limited to 50 students AND more weeknight courses are offered. The total students in class on campus at a given time is given in the header.
+
 
 <body>
  <style>
