@@ -5,7 +5,18 @@
 
 Adapting classrooms and course schedules to properly offer social distancing is crucial to bringing university students back to the campus. On May 21, UNC - Chapel Hill Chancellor Kevin Guskiewicz announced the University’s roadmap plan for the fall 2020 semester. Responding to the COVID-19 pandemic, this plan detailed sweeping changes made to UNC classrooms to promote safe environments for all students. Our aim with this analysis was to offer insight into how changing course schedules may impact the number of student-to-student interactions on campus. 
 
-Maintaining social distance between individuals is essential to reducing the spread of the COVID-19 virus. [^1] [^2] We have used some of the changes suggested by the Chancellor Guskiewicz and other university systems to anticipate possible scenarios. We examine three different scenarios: 
+Maintaining social distance between individuals is essential to reducing the spread of the COVID-19 virus. [^1] [^2] Using a tool from Georgia Tech, Stanford University, and the Applied Bioinformatics Laboratory, we can estimate the chance that a person in a group is infected with COVID-19. [^3] If we use the current number of incident COVID-19 cases in North Carolina, we can find the probability that one or more people in a classroom or group on campus is infected with COVID-19. For example, the larger course UNC-CH offered in fall 2019 is CHEM 101 with 421 registered students in a lecture. Given only the current prevalence in North Carolina, there is a 34% chance that a student in this class alone has COVID-19. For course sizes of 100 students, the chance that a student has COVID-19 in the course is 9.4% (and is still as high as 4.8% for a course size of 50 students). You can check out the graphic below to see the chance a student will have COVID-19 under different class sizes.
+
+<body>
+ <style>
+  html, body { height: 100% }
+</style>
+<div class='tableauPlaceholder' id='viz1591371688033' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Cl&#47;ClassProbabilities&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='ClassProbabilities&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Cl&#47;ClassProbabilities&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1591371688033');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+ </body>
+
+<p>&nbsp;</p>
+
+When we consider the totality of the courses offered on the UNC-CH campus (with 370 courses with over 50 students in a classroom and 178 with over 100 students in fall 2019), it is a near certainty (>99% chance using the model above) that students in classrooms at UNC-CH will have COVID-19. There is a high likelihood that even small classes will have students with COVID-19. Because there are many potential student-to-student interactions in classrooms, there are also a high number of potential spreading events. While there are many other variables on campus that need to be controlled for a safe campus restart, we focus on course schedule as an effective, straightforward, and cost-effective way to limit the exponential spread of COVID-19 from in-class student interactions. 
 
 1. Limit classes to only those with 50 students or less. There were 370 courses offered with over 50 students in Fall 2019. To limit student-to-student interactions and mitigate the exponential spread of COVID-19, we consider a scenario where these classes are held online.
 2. Limit classes to only those with 100 students or less. We consider a scenario where the 178 courses offered with over 100 students are held online. 
@@ -43,7 +54,7 @@ We observe large clusters of students at peak hours. These clusters are mostly c
 * reroutes of student paths to avoid overcrowding, 
 * cleaning of building entrances and facilities, and
 * limiting students stopping-off in cafeterias, libraries, and recreational spaces.
-Reducing students on campus may limit the risk of these issues but will not curb them completely. We are investigating classroom utilization across campus and how to optimize classroom space to reduce clustering. This analysis will be added to the bottom of this site when completed. 
+Reducing students on campus may limit the risk of these issues but will not curb them completely. We are investigating classroom utilization across campus and how to optimize classroom space to reduce clustering. 
 
 In the next graphic, we note the consistent decrease of student population densities under the scenarios. Namely, within peak times of 11am - 3pm, we notice a decrease of student population on campus by over 5,000 students. With the most aggressive change to class schedules, we observe at least one instance on Monday - Thursday of a greater than 10,000 student decrease in campus population (e.g. Tuesday at 12pm). This may mitigate the exponential spread of COVID-19. The potential for student-to-student spread is lessened as class times are either spread out or the classes with the greatest potential to enable spread are moved online. We graph the total student population on the UNC-CH campus under different strategies or combinations of strategies below. The plot allows direct comparison of the total student population on campus with a chosen strategy. Each proposed change to the course schedule can be compared on an hour to hour basis for each day of the week. We highlight the standard course hours in blue and the extended course hours (later hours for weeknights) in yellow.
 
@@ -98,5 +109,7 @@ We use Tableau and pandas for the data analysis and visualization.
 
 [^1]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7118670/
 [^2]: https://wwwnc.cdc.gov/eid/article/26/8/20-1093_article
+[^3]: https://covid19risk.biosci.gatech.edu/
+
 
 
