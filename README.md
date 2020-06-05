@@ -57,7 +57,7 @@ In the next graphic, we note the consistent decrease of student population densi
 
 <p>&nbsp;</p>
 
-The final graphic displays the scenarios in a similar manner but replaces time with buildings. This graphic is a snapshot of the peak campus population, on Tuesday at 12pm. In the scenarios limiting classes to under 50 students, certain buildings with large lecture halls experience major decreases in population such as Genome Sciences, Phillips Hall, and Chapman Hall. On the other hand, Dey Hall and Peabody Hall remain relatively unchanged, suggesting they have many classes with under 50 individuals. By moving large lecture classes online, these large classrooms could be used to adequately social distance students for in-person lectures. 
+The next graphic displays the scenarios in a similar manner but replaces time with buildings. This graphic is a snapshot of the peak campus population, on Tuesday at 12pm. In the scenarios limiting classes to under 50 students, certain buildings with large lecture halls experience major decreases in population such as Genome Sciences, Phillips Hall, and Chapman Hall. On the other hand, Dey Hall and Peabody Hall remain relatively unchanged, suggesting they have many classes with under 50 individuals. By moving large lecture classes online, these large classrooms could be used to adequately social distance students for in-person lectures. 
 
 <body>
  <style>
@@ -68,7 +68,10 @@ The final graphic displays the scenarios in a similar manner but replaces time w
 
 <p>&nbsp;</p>
 
-Finally, we consider how many open and filled (‘used’) seats each building on campus has during the course week. We call the building’s open seats and used seats the ‘utilization’ of the building. Utilization describes student density in a building at the per seat level. This gives us more information about the potential for student-to-student interaction than student density per building alone, as we can now graphically consider how tightly packed students are in the classroom. We can also make better decisions about where to allocate students on campus. For example, in the utilization graphic below, the Genome Sciences Building has 846 used seats and 29 open seats on a Tuesday at 12:00 pm. When we implement a layered strategy of extended night hours during the weeknight and also limiting classes to less than 50 students, we notice that Genome now has only 149 used seats and 726 open seats. This suggests that our intervention is effective at the per seat level. Importantly, it also suggests a further strategy: we can move other classes (from, e.g. Phillips Hall, which has 356 used seats) on campus to some of the empty seats in Genome, and still have reasonably low student-to-student interactions given the utilization rate of the building. 
+Finally, we consider how many open and filled (‘used’) seats each building on campus has during the course week. We call the building’s open seats and used seats the ‘utilization’ of the building. Utilization describes student density in a building at the per seat level. This gives us more information about the potential for student-to-student interaction than student density per building alone, as we can now graphically consider how tightly packed students are in the classroom. We can also make better decisions about where to allocate students on campus. 
+
+
+For example, in the utilization graphic below, the Genome Sciences Building has 846 used seats and 29 open seats on a Tuesday at 12:00 pm. When we implement a layered strategy of extended night hours during the weeknight and also limiting classes to less than 50 students, we notice that Genome now has only 149 used seats and 726 open seats. This suggests that our intervention is effective at the per seat level. Importantly, it also suggests a further strategy: we can move other classes (from, e.g. Phillips Hall, which has 356 used seats) on campus to some of the empty seats in Genome, and still have reasonably low student-to-student interactions given the utilization rate of the building. 
 
 
 <body>
