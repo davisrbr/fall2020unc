@@ -1,5 +1,5 @@
 ## Modeling students on the UNC-CH campus for fall 2020 restart scenarios
-### By Andrew Maxwell and Davis Brown
+### SIGH: Andrew Maxwell and Davis Brown
 
 <img src="images/geographic_slice.png" alt="Campus model">
 
