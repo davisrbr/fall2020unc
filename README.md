@@ -116,8 +116,12 @@ We use Tableau and pandas for the data analysis and visualization.
 [^3]: https://covid19risk.biosci.gatech.edu/
 
 
-## Biographies
+### Biographies
 **Andrew Maxwell** is a recent graduate from UNC with a B.S. in Public Health from Gillings. Andrew currently works as a research assistant for Cecil G. Sheps Center for Health Services Research. In October 2020, he will start work as an Associate at Boston Consulting Group (BCG). 
 
 **Davis Brown** also graduated in May from UNC with a B.S. in Physics. Davis has recently performed research in both material science and at the intersection of machine learning and geospatial analysis. He currently works as a machine learning engineer on a project basis. 
+
+### Acknowledgements
+We would like to acknowledge Professor Morris Weinberger for considerably helpful discussion and suggestions on the campus restart. We also acknowledge Kristie Thompson from the Sheps Center for Health Services Research for detailed feedback and input. Finally, we thank Shreya Shah and Olivia Zitkus for editing and feedback. 
+
 
