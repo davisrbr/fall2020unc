@@ -126,6 +126,6 @@ We use Tableau and pandas for the data analysis and visualization.
 **Davis Brown** is a 2020 graduate from UNC with a B.S. in physics. Davis has recently performed research in material science and at the intersection of machine learning and geospatial analysis. He currently works as a machine learning engineer on a project basis. 
 
 ### Acknowledgements
-We would like to acknowledge Professor Morris Weinberger for considerably helpful discussion and suggestions on the campus restart. We also thank Kristie Thompson from the Sheps Center for Health Services Research for detailed feedback and input. Finally, we thank Shreya Shah, Olivia Zitkus, and Caroline Leland for editing and feedback. 
+We would like to acknowledge Professor Morris Weinberger for his considerably helpful discussion and suggestions on the campus restart. We also thank Kristie Thompson from the Sheps Center for Health Services Research for detailed feedback and input. Finally, we thank Shreya Shah, Olivia Zitkus, and Caroline Leland for editing and feedback. 
 
 ### Footnotes
