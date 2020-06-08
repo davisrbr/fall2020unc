@@ -106,7 +106,7 @@ Other potential COVID-19 related interventions to prevent risky clusters of stud
 * limiting students stopping-off in cafeterias, libraries, and recreational spaces.
 Reducing students on campus may limit the risk of these issues but will not curb them.
 
-## Methods
+### Methods
 We use UNC Chapel Hill course enrollment data from fall 2019 provided by the [Office of the University Registrar](https://registrar.unc.edu/files/2019/03/2199-SSB-3-4-19.pdf). 
 
 For the two strategies that limit course sizes over 50 or 100 students, we remove these courses from the course schedule and assume they are held online. For the extension of course hours to add weeknight classes, we sample between peak student density hours of 11:00am to 3:00pm. We randomly sample 1/4 of courses less than 1.5 hours. If the sampled course starts at 11:00 am, we move the course to 8:00 am. For other sampled courses, we move it 5 hours after its original starting time, so a course that originally started at 2:00 pm and ended at 2:50 pm will now start at 7:00 pm and end at 7:50 pm. 
