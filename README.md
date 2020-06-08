@@ -96,7 +96,7 @@ We use changes to the UNC-CH course schedule to decrease the possibility of stud
 We had a narrow focus in this analysis. However, we suggest that UNC-CH will have success in decreasing the spread of COVID-19 by layering many strategies at once. Our work also proves that even simple measures will decrease student density at the per seat level, within buildings, and on campus. Further direct work should consider how to optimize individual classrooms and classroom spaces to reduce clustering. Further work may also consider a network analysis of potential student-to-student spread in UNC-CH classrooms, and how these strategies may mitigate this spread. 
 
 
-Other relevant COVID-19 related considerations may arise from clusters of students: 
+Other relevant COVID-19 considerations may arise from clusters of students and deserve further consideration: 
 * reroutes of student paths to avoid overcrowding, 
 * cleaning of building entrances and facilities, and
 * limiting students stopping-off in cafeterias, libraries, and recreational spaces.
@@ -122,6 +122,6 @@ We use Tableau and pandas for the data analysis and visualization.
 **Davis Brown** also graduated in May from UNC with a B.S. in Physics. Davis has recently performed research in both material science and at the intersection of machine learning and geospatial analysis. He currently works as a machine learning engineer on a project basis. 
 
 ### Acknowledgements
-We would like to acknowledge Professor Morris Weinberger for considerably helpful discussion and suggestions on the campus restart. We also acknowledge Kristie Thompson from the Sheps Center for Health Services Research for detailed feedback and input. Finally, we thank Shreya Shah and Olivia Zitkus for editing and feedback. 
+We would like to acknowledge Professor Morris Weinberger for considerably helpful discussion and suggestions on the campus restart. We also thank Kristie Thompson from the Sheps Center for Health Services Research for detailed feedback and input. Finally, we thank Shreya Shah and Olivia Zitkus for editing and feedback. 
 
 
