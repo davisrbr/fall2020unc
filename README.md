@@ -128,4 +128,4 @@ We use Tableau and pandas for the data analysis and visualization.
 ### Acknowledgements
 We would like to acknowledge Professor Morris Weinberger for considerably helpful discussion and suggestions on the campus restart. We also thank Kristie Thompson from the Sheps Center for Health Services Research for detailed feedback and input. Finally, we thank Shreya Shah, Olivia Zitkus, and Caroline Leland for editing and feedback. 
 
-
+### Footnotes
