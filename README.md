@@ -32,7 +32,7 @@ We have used some of the changes suggested by Chancellor Guskiewicz and other un
 Our model provides insight on how each proposed change would impact the total number of students on campus, the total density of students within buildings on campus, and the density of student seating. We consider the student density within the Chapel Hill campus. 
 
 ### Mapping Weekly Student In-Class Density on Campus
-Below is a geospatial plot of students on campus throughout the week (press the triangle pointing right to play the animation through a week of courses). We offer the option of ‘layering’ restart scenarios: for example, you can view the student density on campus where more weeknight courses are offered, or where classes are limited to 50 students or less, or where both more weeknight courses are offered AND classes are limited to 50 students. The total students on campus at a time is shown in the header. 
+Below is a geospatial plot of students on campus throughout the week (press the triangle pointing right to play the animation through a week of courses). We offer the option of ‘layering’ restart scenarios: for example, you can view the student density on campus where more weeknight courses are offered, or where classes are limited to 50 students or less, or where both classes are limited to 50 students AND more weeknight courses are offered. The total students on campus at a time is shown in the header. 
 
 <body>
  <style>
