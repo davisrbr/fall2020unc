@@ -2,7 +2,7 @@
 ### By Andrew Maxwell and Davis Brown
 
 
-<img src="images/geographic_slice.png" alt="Campus model">
+<img src="images/map_display.png" alt="Campus model">
 
 Adapting classrooms and course schedules to properly offer social distancing is crucial to bringing university students back to campus. On May 21, UNC-Chapel Hill Chancellor Kevin Guskiewicz announced the University’s roadmap plan for the fall 2020 semester. Responding to the COVID-19 pandemic, this plan detailed sweeping changes made to UNC classrooms to promote safe environments for all students. Our aim with this analysis is to offer insight into how changing course schedules may impact the number of student-to-student interactions on campus. 
 
